@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋Hi，我是 wyfsama，自学web开发中，喜欢各种野生技术
+👋Hi，我是 wyfsama，自学`Web`开发中，偶尔研究下`Python`，喜欢各种野生技术
 
 
