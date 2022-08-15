@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: right here
 - ⚡ Fun fact: dont know closure
 
-### Who am i?
+### Who i am?
 一个兴趣使然的Coder
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wyfsama&theme=tokyonight)](https://github.com/wyfsama/github-readme-stats)
