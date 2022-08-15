@@ -14,7 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋Hi，我是 wyfsama，一个兴趣使然的coder
+
+- 🔭 I’m currently working on Earth
+- 🌱 I’m currently learning go/rust/ts
+- 💬 Ask me about frontend
+- 📫 How to reach me: right here
+- ⚡ Fun fact: dont know closure
+
+👋一个兴趣使然的Coder
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wyfsama&theme=tokyonight)](https://github.com/wyfsama/github-readme-stats)
 
